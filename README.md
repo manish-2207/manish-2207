@@ -14,25 +14,34 @@ Welcome to my GitHub profile! I'm passionate about creating innovative tech solu
 
 ---
 
-✨ Featured Projects
+## ✨ **Featured Projects**
 
-🌤 Weather App (API Integration): A real-time weather application that fetches current weather data using an external API and displays detailed forecasts.
+### 🌤 [**Weather App (API Integration)**](https://github.com/manish2207/weather-now)
+A real-time weather application that fetches current weather data using an external API and displays detailed forecasts.
 
-💳 Expense Tracker: A user-friendly tool to track daily expenses, visualize spending patterns, and manage budgets efficiently.
+### 💳 [**Expense Tracker**](https://github.com/manish2207/expense-tracker)
+A user-friendly tool to track daily expenses, visualize spending patterns, and manage budgets efficiently.
 
-🤖 Chatbot: An interactive chatbot built with natural language processing to simulate human conversation and assist with common queries.
+### 🤖 [**Chatbot**](https://github.com/manish2207/finding-nemo)
+An interactive chatbot built with natural language processing to simulate human conversation and assist with common queries.
 
-📚 Book Recommendation System: Recommends books based on user preferences using content-based and collaborative filtering techniques.
+### 📚 [**Book Recommendation System**](https://github.com/manish2207/book-recommendation-system)
+Recommends books based on user preferences using content-based and collaborative filtering techniques.
 
-🛠️ Python CLI for GitHub (API Integration): A command-line tool to interact with GitHub repositories, view issues, and fetch commits using the GitHub API.
+### 🛠️ [**Python CLI for GitHub (API Integration)**](https://github.com/manish2207/github-cli)
+A command-line tool to interact with GitHub repositories, view issues, and fetch commits using the GitHub API.
 
-📦 P2P File Sharing System: A peer-to-peer file sharing program that enables secure file transfers over a local network.
+### 📦 [**P2P File Sharing System**](https://github.com/manish2207/p2p-file-sharing)
+A peer-to-peer file sharing program that enables secure file transfers over a local network.
 
-🔎 Mini Search Engine: A lightweight search engine that indexes and ranks results from a collection of text files using relevance algorithms.
+### 🔎 [**Mini Search Engine**](https://github.com/manish2207/margadarshi)
+A lightweight search engine that indexes and ranks results from a collection of text files using relevance algorithms.
 
-⏰ Task Scheduler: A Python-based tool to schedule tasks and send notifications when tasks are due, ensuring efficient time management.
+### ⏰ [**Task Scheduler**](https://github.com/manish2207/task-scheduler)
+A Python-based tool to schedule tasks and send notifications when tasks are due, ensuring efficient time management.
 
-⚙️ API Status Checker: A monitoring tool that periodically checks the uptime and response time of APIs, providing instant alerts if an API is down.
+### ⚙️ [**API Status Checker**](https://github.com/manish2207/api-status-checker)
+A monitoring tool that periodically checks the uptime and response time of APIs, providing instant alerts if an API is down.
 
 
 ---

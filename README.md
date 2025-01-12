@@ -14,10 +14,26 @@ Welcome to my GitHub profile! I'm passionate about creating innovative tech solu
 
 ---
 
-## 🌟 **Featured Projects**  
-- 🗂 **File Organizer**: Automates file management by categorizing files into folders.  
-- 🌐 **Task Manager API**: RESTful API built with FastAPI to manage tasks efficiently.  
-- 🏠 **Smart Home System**: IoT project using Raspberry Pi for home automation.  
+✨ Featured Projects
+
+🌤 Weather App (API Integration): A real-time weather application that fetches current weather data using an external API and displays detailed forecasts.
+
+💳 Expense Tracker: A user-friendly tool to track daily expenses, visualize spending patterns, and manage budgets efficiently.
+
+🤖 Chatbot: An interactive chatbot built with natural language processing to simulate human conversation and assist with common queries.
+
+📚 Book Recommendation System: Recommends books based on user preferences using content-based and collaborative filtering techniques.
+
+🛠️ Python CLI for GitHub (API Integration): A command-line tool to interact with GitHub repositories, view issues, and fetch commits using the GitHub API.
+
+📦 P2P File Sharing System: A peer-to-peer file sharing program that enables secure file transfers over a local network.
+
+🔎 Mini Search Engine: A lightweight search engine that indexes and ranks results from a collection of text files using relevance algorithms.
+
+⏰ Task Scheduler: A Python-based tool to schedule tasks and send notifications when tasks are due, ensuring efficient time management.
+
+⚙️ API Status Checker: A monitoring tool that periodically checks the uptime and response time of APIs, providing instant alerts if an API is down.
+
 
 ---
 
